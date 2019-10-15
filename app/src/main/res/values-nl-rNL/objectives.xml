@@ -57,4 +57,8 @@
         <item quantity="one">%1$d dag</item>
         <item quantity="other">%1$d dagen</item>
     </plurals>
+    <plurals name="objective_minutes">
+        <item quantity="one">%1$d minuut</item>
+        <item quantity="other">%1$d minuten</item>
+    </plurals>
 </resources>
