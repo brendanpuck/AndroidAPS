@@ -157,4 +157,10 @@
     <string name="profileswitchtime_hint1">https://androidaps.readthedocs.io/en/latest/CROWDIN/nl/Usage/Profiles.html?highlight=profilewitch#tijd-verschuiving</string>
     <string name="profileswitchtime_60">Voer een profiel wissel uit met een tijdverschuiving van 60</string>
     <string name="profileswitchtime__60">Voer een profiel wissel uit met een tijdverschuiving van -60</string>
+    <string name="basalhelp_hint1">https://androidaps.readthedocs.io/en/latest/CROWDIN/nl/Module/module.html#goed-individueel-doserings-algoritme-voor-jouw-diabetesbehandeling</string>
+    <string name="basalhelp_label">Onderwerp: Hulp met basaal waarden</string>
+    <string name="basalhelp_where">Waar je terecht kunt voor hulp met basaal waarden etc.</string>
+    <string name="basalhelp_diabetesteam">Jouw behandelaars</string>
+    <string name="basalhelp_google">Google</string>
+    <string name="basalhelp_facebook">Facebook</string>
 </resources>
