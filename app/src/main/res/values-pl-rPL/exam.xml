@@ -139,4 +139,28 @@
     <string name="ic_meaning">Znaczenie IC to: Ile jednostek chleba jest pokrytych 1U insuliny.</string>
     <string name="ic_hint1">https://androidaps.readthedocs.io/en/latest/EN/Getting-Started/FAQ.html#carbohydrate-to-insulin-ratio-cr-g-u</string>
     <string name="profileswitch_label">Temat: Przełączanie profili</string>
+    <string name="profileswitch_pctwillchange"> Jeśli podasz 90% podczas zmiany profilu… </string>
+    <string name="profileswitch_basalhigher">Baza będzie o 10% wyższa.</string>
+    <string name="profileswitch_basallower">Baza będzie o 10% niższa.</string>
+    <string name="profileswitch_ichigher">Wartość IC będzie o 10% wyższa.</string>
+    <string name="profileswitch_iclower">Wartość IC będzie o 10% niższa.</string>
+    <string name="profileswitch_isfhigher">Wartość ISF będzie o 10% wyższa.</string>
+    <string name="profileswitch_isflower">Wartość ISF będzie o 10% niższa.</string>
+    <string name="profileswitch_overall">Otrzymasz w sumie około 10% mniej insuliny.</string>
+    <string name="profileswitch_targethigher">Cel będzie wyższy o 10%.</string>
+    <string name="profileswitch_targetlower">Cel będzie o 10% niższy.</string>
+    <string name="profileswitch_targetbottom">Tylko dolny cel będzie o 10% niższy.</string>
+    <string name="profileswitch_hint1">https://androidaps.readthedocs.io/en/latest/EN/Usage/Profiles.html?highlight=profile%20switch#profile-switch</string>
+    <string name="profileswitchtime_iwant">Jeśli obudzisz się o 1h wcześniej niż zwykle, to jak należy powiadomić AAPS o zmianie w harmonogramie?</string>
+    <string name="profileswitchtime_1">Wprowadź zmianę profilu ze zmianą czasu równą 1</string>
+    <string name="profileswitchtime__1">Wprowadź zmianę profilu ze zmianą czasu równą -1</string>
+    <string name="profileswitchtime_hint1">https://androidaps.readthedocs.io/en/latest/EN/Usage/Profiles.html?highlight=profile%20switch#timeshift</string>
+    <string name="profileswitchtime_60">Wprowadź zmianę profilu ze zmianą czasu równą 60</string>
+    <string name="profileswitchtime__60">Wprowadź zmianę profilu ze zmianą czasu równą -60</string>
+    <string name="basalhelp_hint1">https://androidaps.readthedocs.io/en/latest/EN/Module/module.html#good-individual-dosage-algorithm-for-your-diabetes-therapy</string>
+    <string name="basalhelp_label">Temat: Pomoc z dawkami podstawowymi (bazą)</string>
+    <string name="basalhelp_where">Gdzie uzyskać pomoc w sprawie dawek podstawowych itp.</string>
+    <string name="basalhelp_diabetesteam">Twój zespół cukrzycowy</string>
+    <string name="basalhelp_google">Google</string>
+    <string name="basalhelp_facebook">Facebook</string>
 </resources>
