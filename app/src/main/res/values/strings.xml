@@ -172,6 +172,14 @@
     <string name="xdrip">xDrip</string>
     <string name="apsmode_title">APS Mode</string>
 
+<!--
+    <string name="closedloop">Closed Loop</string>
+    <string name="openloop">Open Loop</string>
+    <string name="disabledloop">Loop Disabled</string>
+    <string name="disableloop">Disable loop</string>
+    <string name="enableloop">Enable loop</string>
+-->
+
     <string name="closedloop">Closed Loop</string>
     <string name="openloop">Open Loop</string>
     <string name="disabledloop">Loop Disabled</string>
