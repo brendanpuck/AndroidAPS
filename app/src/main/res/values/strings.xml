@@ -137,7 +137,11 @@
     <string name="days">days</string>
     <string name="constraints">Constraints</string>
 
+
+    <string name="loop">Auto APS</string>
+ <!--
     <string name="loop">Loop</string>
+ -->
     <string name="configbuilder_loop">Loop</string>
     <string name="configbuilder_loop_description">Use this to activate AndroidAPS\' loop integration.</string>
     <string name="loop_aps_label">APS</string>
