@@ -591,6 +591,15 @@
     <string name="key_i_understand" translatable="false">I_understand</string>
     <string name="Glimp">Glimp</string>
     <string name="needwhitelisting">%1$s needs battery optimalization whitelisting for proper performance</string>
+
+    <string name="loopsuspended">Standalone Mode</string>
+    <string name="loopsuspendedfor">Standalone (%1$d m)</string>
+    <string name="loopsuperbolusfor">Superbolus (%1$d m)</string>
+    <string name="suspendloopfor1h">Standalone mode for 1h</string>
+    <string name="suspendloopfor2h">Standalone mode for 2h</string>
+    <string name="suspendloopfor3h">Standalone mode for 3h</string>
+    <string name="suspendloopfor10h">Standalone mode for 10 h</string>
+<!--
     <string name="loopsuspended">Loop suspended</string>
     <string name="loopsuspendedfor">Suspended (%1$d m)</string>
     <string name="loopsuperbolusfor">Superbolus (%1$d m)</string>
@@ -598,6 +607,8 @@
     <string name="suspendloopfor2h">Suspend loop for 2h</string>
     <string name="suspendloopfor3h">Suspend loop for 3h</string>
     <string name="suspendloopfor10h">Suspend loop for 10 h</string>
+
+-->
     <string name="disconnectpumpfor15m">Disconnect pump for 15 min</string>
     <string name="disconnectpumpfor30m">Disconnect pump for 30 min</string>
     <string name="disconnectpumpfor1h">Disconnect pump for 1 h</string>
@@ -856,7 +867,13 @@
     <string name="negativeonly">Negative only</string>
     <string name="overview_editquickwizard_usecob">COB calculation</string>
     <string name="overview_editquickwizard_usetemptarget">Temporary target calculation</string>
+
+<!--
     <string name="loopenabled">Loop enabled</string>
+-->
+
+    <string name="loopenabled">Normal CL mode</string>
+
     <string name="apsselected">APS selected</string>
     <string name="nsclienthaswritepermission">NSClient has write permission</string>
     <string name="closedmodeenabled">Closed mode enabled</string>
