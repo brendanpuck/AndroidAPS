@@ -6,7 +6,7 @@
         android:title="@string/maintenance_settings">
 
         <com.andreabaccega.widget.ValidatingEditTextPreference
-            android:defaultValue="logs@androidaps.org"
+            android:defaultValue="email@nobody.com"
             android:dialogMessage="@string/maintenance_email"
             android:inputType="textEmailAddress"
             android:key="@string/key_maintenance_logs_email"
